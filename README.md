@@ -1,0 +1,1 @@
+Hamburger button for fluid functionality in mobile devices or when usng media queries in CSS.
